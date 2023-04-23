@@ -3,6 +3,8 @@
 ## Overview
 This simple game generates a random sequence of five numbers in the terminal. The user is tasked with guessing the next number in the sequence.
 
+My 2-minute descritpion video: https://youtu.be/bLSQWhbF2MI
+
 ## How to Play
 Follow these steps to play!
 
