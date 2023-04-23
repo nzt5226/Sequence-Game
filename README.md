@@ -44,9 +44,9 @@ else if(sequenceOperator == 8) {
 ```
 The following lines determine the random values that are used in the sequence:
 ```java
-int randomNumStart = rand.nextInt(9) + 2;        //Starting number greater than 1
-int randomNumIterate1 = rand.nextInt(4) + 2;     //Value used for the first operation on the sequence greater than 1   
-int randomNumIterate2 = rand.nextInt(4) + 2;     //Value used for the second operation on the sequence greater than 1
+int randomNumStart = rand.nextInt(9) + 2;     //Starting number greater than 1
+int randomNumIterate1 = rand.nextInt(4) + 2;  //Value used for the first operation on the sequence greater than 1   
+int randomNumIterate2 = rand.nextInt(4) + 2;  //Value used for the second operation on the sequence greater than 1
 ```
 
 #### Sequence Generation
